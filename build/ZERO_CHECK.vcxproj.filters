@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\dell\jasonstore\build\CMakeFiles\796101c7013f54fee289cbf031561afe\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{15770FAC-C27F-3F15-B41D-0B4320837849}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
